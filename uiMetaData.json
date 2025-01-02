@@ -1,7 +1,7 @@
 {
   "name": "AK_API Connector-Updated",
   "connectorType": "apiAction",
-  "userId": null,
+  "userId": "AK_API_Connector",
   "domoClientId": null,
   "domoClientSecret": null,
   "additionalInfo": null,
